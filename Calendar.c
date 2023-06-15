@@ -50,7 +50,7 @@ int main(int argc, char *argv[])
         startingDay = weekDay;
         }
     }
-
+    printf("\n\n");
     exit(1);
     
     }
